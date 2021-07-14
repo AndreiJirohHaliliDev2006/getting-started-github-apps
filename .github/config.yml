@@ -2,8 +2,9 @@
 
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
-requestInfoReplyComment: >
-  We would appreciate it if you could provide us with more info about this issue/pr!
+requestInfoReplyComment:
+  - We would appreciate it if you could provide us with more info about this issue/pr.
+  - Thanks for hitting your shot! Could you explain a bit about this change?
 
 # Or an array:
 # requestInfoReplyComment:
